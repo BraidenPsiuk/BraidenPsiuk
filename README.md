@@ -1,5 +1,6 @@
 ![](page-gif.gif)
 <!--![](page-gif-2.gif)-->
+![](page-gif-3.gif)
 
 <!--
 I found that the ZamZar MKV to GIF converter works best to preserve page color:
