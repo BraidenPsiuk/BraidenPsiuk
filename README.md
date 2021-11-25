@@ -1,4 +1,5 @@
 <!-- ![](/img/header-animation.gif) -->
+<!-- ![](/img/happy-tanksgoving.png) -->
 
 <!--
 I found that the ZamZar MKV to GIF converter works best to preserve page color:
