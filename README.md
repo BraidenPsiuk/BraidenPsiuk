@@ -1,16 +1,12 @@
 <!-- ![](/img/header-animation.gif) -->
-<!-- ![](/img/happy-tanksgoving.png) -->
+![](/img/happy-tanksgoving.png)
 
 <!--
 I found that the ZamZar MKV to GIF converter works best to preserve page color:
 https://www.zamzar.com/convert/mkv-to-gif/
 -->
 
-### Hi 👋
-I'm just
 
-
-yes
 
 
 <!--854x366 - Probably the biggest image I can use here that will take up the whole width of the README-->
