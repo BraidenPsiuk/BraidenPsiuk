@@ -1,5 +1,5 @@
 PGP Fingerprint:
-10FD 68FA 87B8 4CD5 E712 744F 8925 40F0 2201 84E5
+[10FD 68FA 87B8 4CD5 E712 744F 8925 40F0 2201 84E5](https://pgp.braiden.dev/)
 
 <!-- ![](/img/header-animation.gif) -->
 
