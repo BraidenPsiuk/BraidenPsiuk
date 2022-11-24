@@ -1,3 +1,5 @@
+![](/img/happy-tanksgoving.gif)
+
 # :wave: Hi, I'm Braiden
 
 Welcome to my GitHub page!
