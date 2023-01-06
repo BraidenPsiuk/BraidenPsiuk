@@ -1,15 +1,24 @@
-![](/img/happy-tanksgoving.gif)
+<!-- ![](/img/happy-tanksgoving.gif) -->
 
 # :wave: Hi, I'm Braiden
-
 Welcome to my GitHub page!
 
 
-## :page_facing_up: Libraries
+## :page_facing_up: My Software Libraries
 
-:coffee: JavaScript:
+:coffee: JavaScript Libraries
 
 - :iphone: pinephone.js - [GitHub](https://github.com/BraidenPsiuk/pinephone.js) / [NPM](https://www.npmjs.com/package/pinephone)
+
+
+## :book: My Guides / Tutorials
+
+:penguin: How to run Linux on a...
+
+- :computer: WinBook Tablet Computer (TW700/800/801/802) - [GitHub](https://github.com/BraidenPsiuk/linux-winbook)
+
+
+---
 
 
 ## :moneybag: Donations
@@ -31,6 +40,8 @@ If you like what I do, a donation would be greatly appriciated. Thank you!
 - [Website](https://braiden.dev/)
 - [Development blog](https://blog.braiden.dev/)
 - [Flatpak development repository](https://flatpak.repo.braiden.dev/)
+- [Customized Bangle.js 2 app loader](https://banglejs.repo.braiden.dev/)
+- [Bangle.js 2 app development repository](https://github.com/BraidenPsiuk/BangleApps)
 
 
 ## :speech_balloon:	Contact
