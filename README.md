@@ -11,14 +11,14 @@ Welcome to my GitHub page!
 - :iphone: pinephone.js - [GitHub](https://github.com/BraidenPsiuk/pinephone.js) / [NPM](https://www.npmjs.com/package/pinephone)
 
 
-## :book: My Guides / Tutorials
+<!-- ## :book: My Guides / Tutorials
 
 :penguin: How to run Linux on a...
 
 - :computer: WinBook Tablet Computer (TW700/800/801/802) - [GitHub](https://github.com/BraidenPsiuk/linux-winbook)
 
 
----
+--- -->
 
 
 ## :moneybag: Donations
