@@ -1,7 +1,7 @@
 <!-- ![](/img/happy-tanksgoving.gif) -->
 
-# :wave: Hi, I'm Braiden
-Welcome to my GitHub page!
+<!-- # :wave: Hi, I'm Braiden -->
+<!-- Welcome to my GitHub page. -->
 
 
 ## :page_facing_up: My Software Libraries
@@ -23,13 +23,13 @@ Welcome to my GitHub page!
 
 ## :moneybag: Donations
 
-If you like what I do, a donation would be greatly appriciated. Thank you!
+If you want to support what I do, a donation would be greatly appriciated.
 
 :dollar: Donate with fiat:
 
 - <a href="https://liberapay.com/Braiden/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> <img src="https://img.shields.io/liberapay/receives/Braiden.svg?logo=liberapay">
 
-:coin: Donate with crypto:
+:coin: Donate with cryptocurrency:
 
 - Monero (XMR): <sub><sup>4B12BmQuYNF9PHg275ASbfiD7iXy1vK2YJkxtK5V4xv9UTrxFv9ZQ4ASokykTvEVa7fL1NDbtKdLyEDHsMGrRht4FdHqiKj</sup></sub>
 - Litecoin (LTC): <sub><sup>LLfE4awRw47ghQJzMvmn1WPvVykcXwqt9S</sup></sub>
@@ -37,8 +37,8 @@ If you like what I do, a donation would be greatly appriciated. Thank you!
 
 
 ## :globe_with_meridians:	Links
-- [Website](https://braiden.dev/)
-- [Development blog](https://blog.braiden.dev/)
+<!-- - [Website](https://braiden.dev/) -->
+<!-- - [Development blog](https://blog.braiden.dev/) -->
 - [Flatpak development repository](https://flatpak.repo.braiden.dev/)
 - [Customized Bangle.js 2 app loader](https://banglejs.repo.braiden.dev/)
 - [Bangle.js 2 app development repository](https://github.com/BraidenPsiuk/BangleApps)
@@ -46,8 +46,8 @@ If you like what I do, a donation would be greatly appriciated. Thank you!
 
 ## :speech_balloon:	Contact
 - :octocat:	GitHub: [BraidenPsiuk](https://github.com/BraidenPsiuk)
-- :email: Email address: <a href="mailto:mail@braiden.dev">mail@braiden.dev</a>
-- :m:	Matrix: @braiden:matrix.org
+<!-- - :email: Email address: <a href="mailto:mail@braiden.dev">mail@braiden.dev</a> -->
+<!-- - :m:	Matrix: @braiden:matrix.org -->
 
 
 ## :lock: PGP Fingerprint
