@@ -1,14 +1,21 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 <!-- # :wave: Hi, I'm Braiden -->
 <!-- Welcome to my GitHub page. -->
 
-## :hammer: My Tools
+## :floppy_disk: Apps
+
+:jigsaw: GNOME Apps
+
+- :watch: Bangle Connect (TBA) - Mobile Linux app providing connection to and management of Bangle.js 2 smartwatches
+
+## :hammer: Tools
 
 :coffee: JavaScript Tools
 
 - :video_game: spm-level-dumper ([GitHub](https://github.com/BraidenPsiuk/spm-level-dumper)) - Dump geometry data from Super Paper Mario levels
 
-## :page_facing_up: My Software Libraries
+## :page_facing_up: Software Libraries
 
 :coffee: JavaScript Libraries
 
